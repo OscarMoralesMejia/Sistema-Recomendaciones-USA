@@ -1,6 +1,7 @@
+<h1 style="text-align: center;">Sistema de asesoria de establecimientos comerciales</h1>
 
 <div style="text-align: center;">
-  <img src="imagenes/Jupyx.png" alt="Logo de empresa" width="300"/>
+  <img src="imagenes/Jupyx.jpeg" alt="Logo de empresa" width="300"/>
 </div>
 
 Jupyx es una empresa líder en el campo de la ciencia de datos, comprometida con la innovación y la excelencia en el análisis de datos. Fundada con la visión de transformar datos en conocimiento valioso, Jupyx se ha destacado por ofrecer soluciones avanzadas y personalizadas a sus clientes en diversos sectores.
@@ -15,13 +16,14 @@ Desarrollo de Modelos Predictivos: Jupyx se especializa en la creación de model
 Visualización de Datos: La empresa destaca en la visualización de datos, creando dashboards interactivos y gráficos intuitivos que facilitan la comprensión y el análisis de grandes volúmenes de datos. Herramientas como Tableau y Power BI son parte de su arsenal para presentar datos de manera clara y atractiva.
 
 ## Contenido
-1. [Introducción]
+1. [Introducción](#introducción)
 2. [Objetivos](#objetivos)
-3. [Fuente de datos](#fuente-de-datos)
-4. [EDA y Hallazgos](#eda-y-hallazgos)
-5. [KPI´s propuestos](#kpis-propuestos)
-6. [Stack de tecnologías](#stack-de-tecnologías-utilizadas)
-7. [Conclusiones](#conclusiones)
+3. [Metodología](#metodología-de-trabajo)
+4. [Fuente de datos](#fuente-de-datos)
+5. [EDA y Hallazgos](#eda-y-hallazgos)
+6. [KPI´s propuestos](#kpis-propuestos)
+7. [Stack de tecnologías](#stack-de-tecnologías-utilizadas)
+8. [Conclusiones](#conclusiones)
 
 
 # Introducción
@@ -45,6 +47,13 @@ o	El análisis debe contemplar las relaciones entre variables y concluir, si es 
 3.	Entrenamiento y puesta en producción de un modelo de machine learning de clasificación no supervisado o supervisado:
 o	Pendiente por procesar
 
+# Metodología de trabajo
+Utilizamos una combinación del Proceso Estándar Intersectorial para la Minería de Datos CRISP-DM con el marco de trabajo para gestionar proyecto de manera ágil, apoyandonos de plataformas como Trello.
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="imagenes/scrum.jpg" alt="Imagen 1" style="width: 300px; height: 200px;"/>
+    <img src="imagenes/CRISP-DM.png" alt="Imagen 2" style="width: 350px; height: 200px;"/>
+</div>
 
 # Fuente de datos 
 Los datos son extraídos de la plataforma de reseñas Yelp y de Google Maps, para Estados Unidos. Tiene información sobre la ubicación de los comercios, su categoría, puntajes promedios, si están abiertos o no, sobre los usuarios, las reseñas que hicieron, cuántas reseñas hicieron, cuántos votos han recibido esas reseñas, entre otros. Se complementa con datos adicionales como la demografía y el ingreso per capita con el fin de ofrecer mayor detalle de información durante el análisis y la propuesta de negocio.
@@ -146,7 +155,7 @@ Las estrategias de marketing deben destacar las calificaciones positivas y los a
 -	Reconocimiento de Marca: Incremento en la visibilidad y el reconocimiento de la nueva marca.
  
 
-# Stack de Tecnologías Utilizadas
+# Stack de Tecnologías
 
 En este proyecto se ha empleado un conjunto de tecnologías y herramientas para la recolección, análisis y visualización de datos, así como para la automatización y gestión de los procesos. A continuación, se detalla el stack de tecnologías utilizado:
 1. Python y Librerías de Análisis de Datos
@@ -173,6 +182,10 @@ Para la automatización y disponibilización de los datos se han utilizado diver
 •	GitHub: Plataforma para alojamiento de repositorios Git. Utilizada para la colaboración y gestión del código fuente del proyecto.
 5. Gestión de Tareas y Cronogramas
 •	Trello: Herramienta de gestión de proyectos y tareas, utilizada para la planificación, asignación y seguimiento de las tareas del equipo.
+
+<div style="text-align: center;">
+  <img src="imagenes/pipline.drawio.png" alt="Logo de empresa" width="300"/>
+</div>
 
 # Conclusiones
 1.	Dominio del Análisis de Opiniones: Utilizar el poder del análisis de sentimientos para descubrir los secretos del éxito y fracaso de los restaurantes en California. Jupix identificará los rubros clave que generan experiencias positivas y negativas, proporcionando una visión precisa sobre cómo optimizar la oferta y superar a la competencia.
