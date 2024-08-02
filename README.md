@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Sistema de asesoria de establecimientos comerciales</h1>
+<h1 style="text-align: center;">Análisis y Recomendación Estratégica para el Mercado del sector minorista es en Estados Unidos</h1>
 
 <div style="text-align: center;">
   <img src="imagenes/Jupyx.jpeg" alt="Logo de empresa" width="300"/>
