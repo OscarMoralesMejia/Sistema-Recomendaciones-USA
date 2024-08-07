@@ -1,19 +1,21 @@
-<h1 style="text-align: center;">Análisis y Recomendación Estratégica para el Mercado del sector minorista es en Estados Unidos</h1>
+<h1 style="text-align: center;">Análisis y Recomendación Estratégica para el Mercado del Sector Minorista en Estados Unidos</h1>
 
 <div style="text-align: center;">
-  <img src="imagenes/Jupyx.jpeg" alt="Logo de empresa" width="300"/>
-</div>
+  <img src="imagenes/Jupyx.jpeg" alt="Logo de empresa" width="100%"/>
+</div> <br>
+<br>
+🚀 **Jupyx** es una empresa líder en el campo de la ciencia de datos, comprometida con la innovación y la excelencia en el análisis de datos. Fundada con la visión de transformar datos en conocimiento valioso, Jupyx se ha destacado por ofrecer soluciones avanzadas y personalizadas a sus clientes en diversos sectores.
 
-Jupyx es una empresa líder en el campo de la ciencia de datos, comprometida con la innovación y la excelencia en el análisis de datos. Fundada con la visión de transformar datos en conocimiento valioso, Jupyx se ha destacado por ofrecer soluciones avanzadas y personalizadas a sus clientes en diversos sectores.
+### 🌟 Servicios Ofrecidos
 
-Servicios Ofrecidos
-Análisis de Datos: Jupyx proporciona servicios de análisis de datos que ayudan a las empresas a descubrir patrones, tendencias y conocimientos ocultos en sus datos. Utilizando técnicas avanzadas de estadística y machine learning, Jupyx convierte datos crudos en información procesable.
+**📊 Análisis de Datos:** Jupyx proporciona servicios de análisis de datos que ayudan a las empresas a descubrir patrones, tendencias y conocimientos ocultos en sus datos. Utilizando técnicas avanzadas de estadística y machine learning, Jupyx convierte datos crudos en información procesable.
 
-Consultoría en Ciencia de Datos: La empresa ofrece consultoría experta para ayudar a las organizaciones a desarrollar estrategias de datos efectivas. Desde la planificación y arquitectura de datos hasta la implementación de soluciones de inteligencia artificial, Jupyx guía a sus clientes en cada paso del camino.
+**🧠 Consultoría en Ciencia de Datos:** La empresa ofrece consultoría experta para ayudar a las organizaciones a desarrollar estrategias de datos efectivas. Desde la planificación y arquitectura de datos hasta la implementación de soluciones de inteligencia artificial, Jupyx guía a sus clientes en cada paso del camino.
 
-Desarrollo de Modelos Predictivos: Jupyx se especializa en la creación de modelos predictivos que permiten a las empresas anticiparse a las necesidades del mercado, optimizar operaciones y mejorar la toma de decisiones. Estos modelos se aplican en áreas como el marketing, finanzas, salud y más.
+**🔮 Desarrollo de Modelos Predictivos:** Jupyx se especializa en la creación de modelos predictivos que permiten a las empresas anticiparse a las necesidades del mercado, optimizar operaciones y mejorar la toma de decisiones. Estos modelos se aplican en áreas como el marketing, finanzas, salud y más.
 
-Visualización de Datos: La empresa destaca en la visualización de datos, creando dashboards interactivos y gráficos intuitivos que facilitan la comprensión y el análisis de grandes volúmenes de datos. Herramientas como Tableau y Power BI son parte de su arsenal para presentar datos de manera clara y atractiva.
+**📈 Visualización de Datos:** La empresa destaca en la visualización de datos, creando dashboards interactivos y gráficos intuitivos que facilitan la comprensión y el análisis de grandes volúmenes de datos. Herramientas como Tableau y Power BI son parte de su arsenal para presentar datos de manera clara y atractiva.
+
 
 ## Contenido
 1. [Introducción](#introducción)
